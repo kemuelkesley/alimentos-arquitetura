@@ -1,0 +1,7 @@
+B > Block
+E > Element
+M > Modifier
+
+Bloco elemento, modificador
+
+Sempre deixar em ordem alfabetica o CSS.
